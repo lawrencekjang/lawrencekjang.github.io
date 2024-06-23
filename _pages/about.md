@@ -13,13 +13,9 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! I'm Lawrence Jang. I am in the [5th Year Master's in Machine Learning Program](https://www.ml.cmu.edu/academics/5th-year-ms.html) at Carnegie Mellon University. I am broadly interesting in common-sense reasoning in multimodal agents, particularly within applications of memory and visual grounding. At CMU, I have been grateful to collaborate with [Prof. Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/), [Prof. Daniel Fried](https://dpfried.github.io/), and [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I also completed my undergraduate degree from CMU in Statistics and Machine Learning. I will be applying for CS PhD programs for the Fall 2025 cycle!
