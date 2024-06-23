@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "Contact: ljang [at] cs [dot] cmu [dot] edu"
 
