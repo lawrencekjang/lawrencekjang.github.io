@@ -9,7 +9,7 @@ profile:
   image: Lawrence.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>CMU MSML Student</p>
+    <p>CMU Undergrad + MSML Student</p>
     <p>Contact: ljang [at] cs [dot] cmu [dot] edu</p>
 
 news: false # includes a list of news items
