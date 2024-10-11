@@ -10,7 +10,7 @@ nav_order: 5
 Teaching Assistant:
 
 - [11-777 Multimodal Machine Learning Fall '24](https://cmu-mmml.github.io/fall2024/)
-- [10-703 Deep Reinforcement Learning Fall '24]()
+- [10-703 Deep Reinforcement Learning Fall '24](https://cmudeeprl.github.io/703website_f24/)
 - [10-708 Probabilistic Graphical Models Spring '24](https://andrejristeski.github.io/10708S24/schedule.html)
 - [36-402 Advanced Data Analysis Spring '24]()
 - [10-703 Deep Reinforcement Learning Fall '23](https://cmudeeprl.github.io/703website_f23/)
