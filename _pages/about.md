@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a [5th Year Master's in Machine Learning Student](https://www.ml.cmu.edu/academics/5th-year-ms.html) at Carnegie Mellon University. I am interested in instilling common-sense reasoning in multimodal agents.
+I am a [5th Year Master's in Machine Learning Student](https://www.ml.cmu.edu/academics/5th-year-ms.html) at Carnegie Mellon University. I am interested in instilling human capabilities and common-sense reasoning in multimodal agents.
 
 At CMU, I have been grateful to collaborate with [Prof. Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/), [Prof. Daniel Fried](https://dpfried.github.io/), and [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I also completed my undergraduate degree from CMU in Statistics and Machine Learning.  I have done internships at Microsoft Research, the Chicago Cubs, and the MLB Commissioner's Office.
 
