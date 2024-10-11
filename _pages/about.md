@@ -21,7 +21,7 @@ I am a [5th Year Master's in Machine Learning Student](https://www.ml.cmu.edu/ac
 
 At CMU, I have been grateful to collaborate with [Prof. Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/), [Prof. Daniel Fried](https://dpfried.github.io/), and [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I also completed my undergraduate degree from CMU in Statistics and Machine Learning.  I have done internships at Microsoft Research, the Chicago Cubs, and the MLB Commissioner's Office.
 
-I am passionate about teaching and have been involved with many course offerings at CMU as a teaching assistant, including [10-703 Deep Reinforcement Learning](https://cmudeeprl.github.io/703website_f23/), [10-708 Probabilistic Graphical Models](https://andrejristeski.github.io/10708-S23/schedule.html), [11-777 Multimodal Machine Learning](https://cmu-mmml.github.io/), [36-401 Modern Regression](), and  [36-402 Advanced Data Analysis]().  I was the 2024 Statistics Department Undergraduate TA of the Year and 2024 Machine Learning Department TA of the Year. 
+I am passionate about teaching and have been involved with many course offerings at CMU as a teaching assistant, including [10-703 Deep Reinforcement Learning](https://cmudeeprl.github.io/703website_f23/), [10-708 Probabilistic Graphical Models](https://andrejristeski.github.io/10708-S23/schedule.html), [11-777 Multimodal Machine Learning](https://cmu-mmml.github.io/), 36-401 Modern Regression, and  36-402 Advanced Data Analysis.  I was the 2024 Statistics Department Undergraduate TA of the Year and 2024 Machine Learning Department TA of the Year. 
 
 In my free time, I like to play basketball and cook Korean food. Feel free to reach out through email about anything!
 
