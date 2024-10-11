@@ -91,6 +91,11 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
 
+      - name: Disable JSON minification
+        run: |
+          echo "jekyll-minifier:" >> _config.yml
+          echo "  exclude: '*.json'" >> _config.yml
+
       - name: Install Python dependencies
         run: |
           python -m venv venv
