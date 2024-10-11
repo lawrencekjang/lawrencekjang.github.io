@@ -109,6 +109,8 @@ jobs:
           export PATH="$PATH:$HOME/.local/bin"
           export JEKYLL_ENV=production
           bundle exec jekyll build
+          export UGLIFY_HARMONY=true # Ensure harmony mode is enabled for ES6
+
 
       - name: Purge unused CSS 🧹
         run: |
