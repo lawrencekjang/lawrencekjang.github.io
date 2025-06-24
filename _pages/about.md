@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Visiting Researcher on the Llama Computer Agents team at Meta with [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)and an incoming Machine Learning PhD student at Carnegie Mellon Unviersity.  I am broadly interested in LLM agents. 
+I am currently a Visiting Researcher on the Llama Computer Agents team at Meta with [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and an incoming Machine Learning PhD student at Carnegie Mellon Unviersity.  I am broadly interested in LLM agents. 
 
 At CMU, I have been grateful to collaborate with [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/), [Prof. Daniel Fried](https://dpfried.github.io/), and [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I recently completed my [5th Year Master's in Machine Learning](https://www.ml.cmu.edu/academics/5th-year-ms.html) from Carnegie Mellon University and also completed my undergraduate degree from CMU in Statistics and Machine Learning.  I have done internships at Microsoft Research, the Chicago Cubs, and the MLB Commissioner's Office.
 
