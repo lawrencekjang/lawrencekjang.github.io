@@ -8,7 +8,7 @@ middle_name:
 last_name: Jang
 email: ljang@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Lawrence Jang is a Machine Learning PhD student at Carnegie Mellon University researching computer-use agents and real-time personal assistants.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords:  # add your own keywords or leave empty
@@ -309,7 +309,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Jang]
-  first_name: [Lawrence]
+  first_name: [Lawrence, Lawrence Keunho]
 
   style: apa
   locale: en
