@@ -705,3 +705,17 @@ html.transition *::after {
 .publications ol.bibliography li .abbr abbr div {
   color: inherit;
 }
+
+@media (max-width: 360px) {
+  .intro {
+    grid-template-columns: minmax(0, 1fr) 98px;
+  }
+  .intro h1 {
+    font-size: 2.5rem;
+  }
+  .portrait-spark {
+    width: 2.2rem;
+    height: 2.2rem;
+    right: -0.7rem;
+  }
+}
