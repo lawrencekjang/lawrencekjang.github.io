@@ -719,3 +719,8 @@ html.transition *::after {
     right: -0.7rem;
   }
 }
+
+/* MDB marks badge text white; keep publication labels readable in both themes. */
+.publications ol.bibliography li .abbr abbr {
+  color: var(--global-text-color-light) !important;
+}
