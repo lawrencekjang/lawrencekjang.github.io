@@ -162,11 +162,6 @@ body > #main-content.container {
 .year-filters button:hover {
   color: var(--global-text-color);
 }
-.paper-count {
-  margin: 0;
-  color: var(--global-text-color-light);
-  font-size: 0.8rem;
-}
 .publications {
   margin-top: 0.5rem;
 }
