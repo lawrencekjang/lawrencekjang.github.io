@@ -21,7 +21,7 @@
     {% include header.liquid %}
 
     <!-- Content -->
-    <div class="container mt-5" role="main">
+    <div class="container mt-5" role="main" id="main-content">
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == 'right' %}
           <div class="row">
@@ -74,6 +74,7 @@
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
     <script src="{{ '/assets/js/shortcut-key.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/refresh.js' | relative_url | bust_file_cache }}" defer></script>
     <!-- Default Statcounter code for personal website
     https://lawrencekjang.github.io/ -->
     <script type="text/javascript">
