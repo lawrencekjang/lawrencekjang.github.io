@@ -1,19 +1,4 @@
 (() => {
-  const themeButton = document.querySelector(".theme-switch");
-  const syncThemeLabel = () => {
-    const dark = document.documentElement.dataset.theme === "dark";
-    themeButton.textContent = dark ? "Lights on" : "Lights out";
-    themeButton.setAttribute("aria-label", `Switch to ${dark ? "light" : "dark"} mode`);
-  };
-  if (themeButton && typeof setThemeSetting === "function") {
-    themeButton.hidden = false;
-    syncThemeLabel();
-    themeButton.addEventListener("click", () => {
-      setThemeSetting(document.documentElement.dataset.theme === "dark" ? "light" : "dark");
-      syncThemeLabel();
-    });
-    new MutationObserver(syncThemeLabel).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
-  }
   document.querySelectorAll('.more-authors[role="button"]').forEach((button) => {
     button.addEventListener("keydown", (event) => {
       if (event.key === "Enter" || event.key === " ") {
