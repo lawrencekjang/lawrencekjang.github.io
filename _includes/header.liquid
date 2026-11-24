@@ -3,10 +3,34 @@
   <nav class="site-nav" aria-label="Main navigation">
     <a class="site-mark" href="{{ '/' | relative_url }}" aria-label="Lawrence Jang, home">lj<span>.</span></a>
     <div class="site-nav-links">
-      <a href="{{ '/' | relative_url }}" {% if page.permalink == '/' %}aria-current="page"{% endif %}>About</a>
-      <a href="{{ '/publications/' | relative_url }}" {% if page.permalink == '/publications/' %}aria-current="page"{% endif %}>Research</a>
-      <a href="{{ '/teaching/' | relative_url }}" {% if page.permalink == '/teaching/' %}aria-current="page"{% endif %}>Teaching</a>
-      <a href="{{ '/cv/' | relative_url }}" {% if page.permalink == '/cv/' %}aria-current="page"{% endif %}>CV</a>
+      <a
+        href="{{ '/' | relative_url }}"
+        {% if page.permalink == '/' %}
+          aria-current="page"
+        {% endif %}
+        >About</a
+      >
+      <a
+        href="{{ '/publications/' | relative_url }}"
+        {% if page.permalink == '/publications/' %}
+          aria-current="page"
+        {% endif %}
+        >Research</a
+      >
+      <a
+        href="{{ '/teaching/' | relative_url }}"
+        {% if page.permalink == '/teaching/' %}
+          aria-current="page"
+        {% endif %}
+        >Teaching</a
+      >
+      <a
+        href="{{ '/cv/' | relative_url }}"
+        {% if page.permalink == '/cv/' %}
+          aria-current="page"
+        {% endif %}
+        >CV</a
+      >
       <button class="theme-switch" type="button" aria-label="Switch to dark mode" hidden>Lights out</button>
     </div>
   </nav>

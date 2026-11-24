@@ -4,7 +4,10 @@ layout: default
 <section class="intro" aria-labelledby="intro-title">
   <div class="intro-copy">
     <p class="intro-eyebrow">Machine Learning at Carnegie Mellon</p>
-    <h1 id="intro-title">Lawrence<br>Jang<span class="name-dot">.</span></h1>
+    <h1 id="intro-title">
+      Lawrence<br>
+      Jang<span class="name-dot">.</span>
+    </h1>
     <div class="intro-bio">{{ content }}</div>
     <nav class="contact-links" aria-label="Connect with Lawrence">
       <a href="mailto:ljang@cs.cmu.edu">Email</a>
@@ -14,9 +17,17 @@ layout: default
     </nav>
   </div>
   <div class="portrait-wrap">
-    <svg class="portrait-spark" viewBox="0 0 100 100" aria-hidden="true"><path d="M50 5 57 35 80 15 67 42 98 45 69 56 88 81 60 68 53 98 44 69 17 86 31 59 3 51 34 43 15 19 42 34Z" fill="currentColor"/></svg>
+    <svg class="portrait-spark" viewBox="0 0 100 100" aria-hidden="true">
+      <path d="M50 5 57 35 80 15 67 42 98 45 69 56 88 81 60 68 53 98 44 69 17 86 31 59 3 51 34 43 15 19 42 34Z" fill="currentColor"/>
+    </svg>
     <figure class="portrait">
-      <img src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" width="399" height="399" alt="Lawrence Jang smiling at a restaurant" fetchpriority="high">
+      <img
+        src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}"
+        width="399"
+        height="399"
+        alt="Lawrence Jang smiling at a restaurant"
+        fetchpriority="high"
+      >
     </figure>
     <span class="portrait-note" aria-hidden="true">hello, world!</span>
   </div>
@@ -24,7 +35,10 @@ layout: default
 
 <section class="research-section" id="research" aria-labelledby="research-title">
   <div class="research-heading">
-    <div><p class="section-eyebrow">Papers & projects</p><h2 id="research-title">Selected research<span class="name-dot">.</span></h2></div>
+    <div>
+      <p class="section-eyebrow">Papers & projects</p>
+      <h2 id="research-title">Selected research<span class="name-dot">.</span></h2>
+    </div>
     <a class="all-publications" href="{{ '/publications/' | relative_url }}">All publications</a>
   </div>
   <div class="research-toolbar" hidden>
