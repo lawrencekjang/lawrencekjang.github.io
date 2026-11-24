@@ -8,7 +8,7 @@ middle_name:
 last_name: Jang
 email: ljang@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Lawrence Jang is a second-year Machine Learning PhD student at Carnegie Mellon University, advised by Ruslan Salakhutdinov and sponsored by the SIG PhD Fellowship Program.
+  Lawrence Jang is a second-year Machine Learning PhD student at Carnegie Mellon University, advised by Ruslan Salakhutdinov and supported by the SIG PhD Fellowship Program.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: # add your own keywords or leave empty
